@@ -3,7 +3,10 @@
 -Hans Rosling-
 
 
-### print("Hello, world!") 👋
+### print("Hello, world! I'm Sara Sánchez 👋")
+
+Methodical, resourceful and outgoing, I studied economics and international relations. After a first stage in HR in Inditex, I decided to join a startup where I have enjoyed managing a multinational team and taking care of multiple key areas of the business. Now, with new skills in Data Analysis and Business Intelligence, I'm ready for a fresh challenge that allows me to integrate my background and experience in the field of business strategy!
+
 
 <!--
 **SaraSanSan/SaraSanSan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
