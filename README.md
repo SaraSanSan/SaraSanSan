@@ -1,11 +1,17 @@
-
 # “_Let the dataset change your mindset_.”
 -Hans Rosling-
-
-
+ 
+ 
 ### print("Hello, world! I'm Sara Sánchez 👋")
 
-Methodical, resourceful and outgoing, I studied economics and international relations. After a first stage in HR in Inditex, I decided to join a startup where I have enjoyed managing a multinational team and taking care of multiple key areas of the business. Now, with new skills in Data Analysis and Business Intelligence, I'm ready for a fresh challenge that allows me to integrate my background and experience in the field of business strategy!
+Resolute, methodical, and enthusiastic. I studied two bachelor’s degrees in Economics and International Relations.
+
+After an initial stage in HR, I set out to prepare for high-level civil service exams while developing my own digital project. However, in 2022 I decided to join a startup where I have enjoyed managing a multinational team and taking charge of multiple key areas of a fast-growing company.
+
+Now, after enhancing my skills in Data Analysis & Business Intelligence, I am ready for a challenge that allows me to integrate my training and experience in the field of business strategy!
+ 
+ 
+PS: You can reach me or download my curriculum in https://es.linkedin.com/in/sara-sanchez-santiago :)
 
 
 <!--
